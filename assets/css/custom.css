@@ -1,0 +1,220 @@
+body{
+    overflow-x:hidden;
+}
+.header{
+    margin-top:4rem;
+    padding-left:-15px;
+}
+.imglogo{
+    margin-left: -4rem;
+}
+.container{
+    max-width: 880px;
+}
+.secondsection{
+    margin-top:12rem;
+}
+.headingp{
+    font-size: 67px;
+    font-weight: bold;
+    color:#FABB1E;
+    font-family: Verdana;
+}
+.b{
+    font-size: 67px;
+    font-weight: lighter;
+    color:black;
+    line-height: 5rem;
+
+}
+.firstparagraph{
+    font-weight: lighter;
+    color:black;
+    line-height: 5rem;
+    font-size: 11px;
+    margin-left: 4px;
+    font-weight: 800;
+}
+.full-width{
+    background: #404040;
+}
+.btn-success {
+    color: #fff;
+    background: black;
+    border: none;
+    border-radius: 0 !important;
+    padding:10px 5rem;
+    border: none;
+    z-index: 3;
+}
+.btn-success:hover{
+    color: #fff;
+    background: black;
+    border: none;
+    border-radius: none !important;
+}
+.btn-success:focus {
+    color: #fff;
+    background: black;
+    border: none;
+    border-radius: none !important;
+}
+.btn-success:active {
+    color: #fff;
+    background: black;
+    border: none;
+    border-radius: none !important;
+}
+.dunkinlogo{
+    width: 43%;
+    margin-top:-3rem;
+}
+.moonhead{
+    color:white;
+    margin-top:-3rem;
+}
+.moonpara{
+color:white;
+font-size: 20px;
+letter-spacing: 2px;
+padding-bottom:4rem;
+}
+.full-width-nth{
+    background-color: #fabb19;
+}
+.customborder{
+    position: absolute;
+    width: 50%;
+    left: 40%;
+    bottom: 15%;
+    height: 390px;
+
+}
+.indexing{
+    z-index: 5;
+}
+@media screen and (max-width:700px){
+
+}
+@media screen and (max-width:700px){
+    .dunkinlogo{
+        width: 43%;
+        margin-top:-1rem;
+    }
+    .moonhead{
+        color:white;
+        margin-top:-1rem;
+    }
+    .textalign .col-md-4{
+        text-align: center;
+        margin-top:3rem;
+    }
+}
+.page-two{
+    max-width: 85%;
+    background: #404040;
+    margin:auto;
+    margin-top:6rem;
+    margin-bottom: 5rem;
+}
+.spacing{
+
+    margin-top:44rem;
+}
+.headingptwo{
+    font-size: 56px;
+    line-height: 11vh;
+    font-weight: bold;
+    color:#FABB1E;
+    font-family: Verdana;
+}
+.pagetwoborder{
+position: absolute;
+width:83%;
+top:57%;
+z-index: 1;
+cursor: text;
+/* left: 400px; */
+/* margin-left: 0.9%; */
+height: 650px;
+}
+.borderpagetwo{
+    color:#FABB19;
+    border-left:7px solid #FABB19;
+    height: 70px;
+    margin-top:2rem;
+}
+
+@media screen and (max-width: 1200px){
+    .pagetwoborder {
+        position: absolute;
+        width: 87.9%;
+        top: 57%;
+        z-index: 1;
+        cursor: text;
+        /* left: 400px; */
+        /* margin-left: 5.7%; */
+        height: 650px;
+    }
+}
+@media screen and (max-width: 1150px){
+    .pagetwoborder {
+        position: absolute;
+        width: 90%;
+        top: 57%;
+        z-index: 1;
+        cursor: text;
+        /* left: 400px; */
+        /* margin-left: 5.7%; */
+        height: 650px;
+    }
+}
+@media screen and (max-width: 1100px){
+    .pagetwoborder {
+        position: absolute;
+        width: 91.6%;
+        top: 57%;
+        z-index: 1;
+        cursor: text;
+        /* left: 400px; */
+        /* margin-left: 5.7%; */
+        height: 650px;
+    }
+
+}
+@media screen and (max-width: 970px){
+    .pagetwoborder {
+        position: absolute;
+        width: 90.2%;
+        top: 57%;
+        z-index: 1;
+        cursor: text;
+        /* left: 400px; */
+        /* margin-left: 5.7%; */
+        height: 650px;
+    }
+}
+    @media screen and (max-width: 1060px){
+        .pagetwoborder {
+            position: absolute;
+            width: 93.0%;
+            top: 57%;
+            z-index: 1;
+            cursor: text;
+            /* left: 400px; */
+            /* margin-left: 5.7%; */
+            height: 650px;
+        }
+}
+@media screen and (max-width: 992px){
+.pagetwoborder {
+    position: absolute;
+    width: 89.1%;
+    top: 57%;
+    z-index: 1;
+    cursor: text;
+    /* left: 400px; */
+    /* margin-left: 5.7%; */
+    height: 650px;
+}
+}
